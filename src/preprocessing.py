@@ -60,4 +60,3 @@ def preprocess_text(text):
     text = " ".join(clean_tokens)
 
     return text
-print(preprocess_text("Python is used for Machine Learning"))
