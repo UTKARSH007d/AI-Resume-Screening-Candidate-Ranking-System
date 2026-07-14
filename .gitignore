@@ -14,3 +14,16 @@ __pycache__/
 
 # OS Files
 .DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+.env
+
+.vscode/
+
+models/*.pkl
+
+*.ipynb_checkpoints
+
+.DS_Store
